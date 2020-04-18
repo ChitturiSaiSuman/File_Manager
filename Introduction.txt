@@ -1,0 +1,33 @@
+
+
+
+							FILE MANAGEMENT SYSTEM
+
+					A Mini Project by: Chitturi Sai Suman, Praneeth Kapila
+
+
+		FILE MANAGEMENT SYSTEM:
+
+
+			This is a Linux Application that is designed to manage functions and operations on Files.
+
+		This Application can perform any action on files in the secondary memory. This File Management System
+
+		will enable users to create, manage, edit, delete ., and perform much more functions on Files.
+
+
+
+		OPERATIONS SUPPORTED:
+
+
+			1. Creation of File/Folder
+
+			2. Descend a Directory Hirearchy
+
+			3. Delete, Modify and Rename files
+
+			4. Sort files based on Several Attributes
+
+			5. Copy and Move Files
+
+		PLEASE GO THROUGH "README.txt" BEFORE YOU CAN USE THE APPLICATION
